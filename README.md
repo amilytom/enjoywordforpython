@@ -1,0 +1,2 @@
+# enjoywordforpython
+快乐学单词MySql数据库使用python采集英语单词
